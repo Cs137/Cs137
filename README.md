@@ -3,7 +3,7 @@
 I am Christian Schreinemachers and I am interested in science, open source software, podcasts, boardgames, music, movies, literature, and much more.
 
 I hold a 🎓 PhD in chemistry, which I did in the [SOLVOMET Group](https://chem.kuleuven.be/solvomet/) of [KU Leuven](https://www.kuleuven.be/english/kuleuven/) 🇧🇪 and at the [Belgian Nuclear Research Centre SCK CEN](https://www.sckcen.be/en).
-Currently, I work as 👨‍🔬 scientist at the [Forschungszentrum Jülich GmbH](https://www.fz-juelich.de/en) 🇩🇪 in the [Nuclear Waste Management](https://www.fz-juelich.de/en/iek/iek-6) department of the [Institute of Energy and Climate Research](https://www.fz-juelich.de/en/iek).
+Currently, I work as 👨‍🔬 scientist at the [Forschungszentrum Jülich GmbH](https://www.fz-juelich.de/en) 🇩🇪 in the [Nuclear Waste Management](https://www.fz-juelich.de/en/ifn/ifn-2) department of the [Institute of Fusion Energy and Nuclear Waste Management](https://www.fz-juelich.de/en/ifn).
 
 In my spare time, I am developing a python package which allows to organise ☢ X-ray diffraction measurement data and access them via an API. 
 Due to my aversion to Microsoft products, I am developing this package on [codeberg.org](https://codeberg.org).
